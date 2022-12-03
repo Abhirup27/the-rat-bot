@@ -1,0 +1,17 @@
+{
+  "name": "the-rat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Abhirup Bhattacharyya",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "node-libcurl": "^3.0.0",
+    "tmi.js": "^1.8.5"
+  }
+}
